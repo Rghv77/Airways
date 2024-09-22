@@ -1,0 +1,77 @@
+.list{
+    width: 100%;    
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    gap: 2rem;
+    padding:2rem;
+    /* cursor:pointer; */
+    position: relative;
+}
+.listheading{
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 44px;
+/* identical to box height, or 157% */
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+
+
+}
+
+.listserialno{
+    /* 03 */
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 44px;
+/* identical to box height, or 157% */
+letter-spacing: 0.02em;
+
+/* White 1 */
+color: #FFFFFF;
+
+
+}
+
+.sliderhead{
+    /* CITATION III */
+
+font-family: 'Opulent';
+font-style: normal;
+font-weight: 5;
+font-size: 24px;
+line-height: 39px;
+/* identical to box height, or 161% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+.sliderpara{
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}

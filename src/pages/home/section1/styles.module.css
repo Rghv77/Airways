@@ -1,0 +1,48 @@
+.heading{
+    /* Charter Your Private Jet Today */
+
+
+
+font-family: 'Opulent';
+font-style: normal;
+font-weight: 5;
+font-size: 80px;
+/* line-height: 29px; */
+/* or 36% */
+display: flex;
+align-items: center;
+text-align: center;
+
+background: linear-gradient(101.64deg, #FFFFFF -4.38%, rgba(255, 255, 255, 0) 109.7%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+
+}
+
+.para{
+    /* Revolutionary and Sustainable Private Jet Charter: Pioneering Excellence in Aviation */
+
+
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height, or 120% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+
+}
+
